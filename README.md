@@ -27,4 +27,7 @@ Some of the key areas where the work can be continued is :
 
 #### Other info
 The algorithms used by haar cascade or the igame api are trained to detect faces. There are instances like camera blind spots in a room or when people are waiting in corners and the current camera positioning only captures their legs or lower body. In such cases algorithms mostly fails to detect the person.
+For example - The person in the top right corner in the image below
+
+![Blind Spot](/screenshot.png)
  
